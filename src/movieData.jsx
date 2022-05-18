@@ -21,7 +21,7 @@ const movieData = [
   },
   
   {
-    title: "infection",
+    title: "Infection",
     imgsrc: "images/infection.png",
     description: "MX-PLAYER",
     link: "https://www.mxplayer.in/movie/watch-infection-hindi-dubbed-movie-online-035adb2f6ec2dadacdad50a12cd1f8a3",
